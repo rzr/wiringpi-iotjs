@@ -1,0 +1,38 @@
+{
+  "name": "wiringpi-iotjs",
+  "version": "0.0.0",
+  "description": "Abstract Wiring API for IoT.js (reimplemented in js)",
+  "readme": "README.md",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "iotjs example",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzr/iotjs-wiringpi.git"
+  },
+  "keywords": [
+    "wiringPi",
+    "gpio",
+    "raspberry",
+    "pi",
+    "raspberrypi",
+    "bcm2835",
+    "iotjs",
+    "iotjs-module",
+    "raspberrypi"
+  ],
+  "author": "Philippe Coval <p.coval@samsung.com> (https://www.npmjs.com/~rzr)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/rzr/wiringpi-iotjs/issues"
+  },
+  "homepage": "https://github.com/rzr/wiringpi-iotjs/#readme",
+  "iotjs": {
+    "version": ">=1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.3"
+  }
+}
