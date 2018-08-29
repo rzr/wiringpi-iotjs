@@ -1,0 +1,30 @@
+{
+  "name": "iotjs-wiringpi",
+  "version": "0.0.0",
+  "description": "Leightweight Reimplementation of wiringpi-node (Bindings to wiringPi) for IoT.js",
+  "main": "lib/iotjs/wiringpi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzr/iotjs-wiringpi.git"
+  },
+  "keywords": [
+    "wiringPi",
+    "gpio",
+    "raspberry",
+    "pi",
+    "raspberrypi",
+    "bcm2835",
+    "iotjs",
+    "iotjs-module",
+    "raspberrypi"
+  ],
+  "author": "Philippe Coval <p.coval@samsung.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rzr/iotjs-wiringpi/issues"
+  },
+  "homepage": "https://github.com/rzr/iotjs-wiringpi#readme"
+}
