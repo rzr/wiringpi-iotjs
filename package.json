@@ -2,9 +2,11 @@
   "name": "iotjs-wiringpi",
   "version": "0.0.0",
   "description": "Leightweight Reimplementation of wiringpi-node (Bindings to wiringPi) for IoT.js",
+  "readme": "README.md",
   "main": "lib/iotjs/wiringpi.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "iotjs example",
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
@@ -21,10 +23,15 @@
     "iotjs-module",
     "raspberrypi"
   ],
-  "author": "Philippe Coval <p.coval@samsung.com>",
-  "license": "Apache-2.0",
+  "author": "Philippe Coval <p.coval@samsung.com> (https://www.npmjs.com/~rzr)",
   "bugs": {
     "url": "https://github.com/rzr/iotjs-wiringpi/issues"
   },
-  "homepage": "https://github.com/rzr/iotjs-wiringpi#readme"
+  "homepage": "https://github.com/rzr/iotjs-wiringpi#readme",
+  "iotjs": {
+    "version": ">=1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0"
+  }
 }
