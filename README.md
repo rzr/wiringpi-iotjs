@@ -1,15 +1,16 @@
 # WIRINGPI-IOTJS #
 
+[![GitHub forks](https://img.shields.io/github/forks/SamsungInternet/wiringpi-iotjs.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/SamsungInternet/wiringpi-iotjs/network/)
+[![License](https://img.shields.io/badge/licence-BSD-3.svg?style=flat)](LICENSE)
+[![NPM](https://img.shields.io/npm/v/wiringpi-iotjs.svg)](https://www.npmjs.com/package/wiringpi-iotjs)
+[![IRC Channel](https://img.shields.io/badge/chat-on%20freenode-brightgreen.svg)](https://kiwiirc.com/client/irc.freenode.net/#tizen)
+
 Lightweight reimplentation of wiring-node for IoT.js,
 
 WARNING: it's not isofunctionnal, many features are dropped, but API should align
 to help porting Node.js modules to IoT.js
 
 * URL: https://github.com/SamsungInternet/wiringpi-iotjs
-
-[![GitHub forks](https://img.shields.io/github/forks/SamsungInternet/wiringpi-iotjs.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/SamsungInternet/wiringpi-iotjs/network/)
-
-[![License](https://img.shields.io/badge/licence-BSD-3.svg?style=flat)](LICENSE)
 
 [![NPM](https://nodei.co/npm/wiringpi-iotjs.png)](https://npmjs.org/package/wiringpi-iotjs)
 
@@ -52,6 +53,7 @@ Node is not yet supported but for debugging purpose, gpio calls can be stubbed.
 
 * https://github.com/SamsungInternet/wiringpi-iotjs
 * https://www.npmjs.com/package/wiringpi
+* https://libraries.io/npm/wiringpi-iotjs
 * https://github.com/Soarez/node-wiring-pi
 * https://www.npmjs.com/package/wiringpi-node
 * https://github.com/fengjiannan2010/wiringpi-node
