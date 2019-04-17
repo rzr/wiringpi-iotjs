@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/rzr/wiringpi-iotjs/issues"
   },
-  "homepage": "https://github.com/rzr/wiringpi-iotjs/#readme",
+  "homepage": "https://libraries.io/npm/wiringpi-iotjs",
   "iotjs": {
     "version": ">=1.0"
   },
