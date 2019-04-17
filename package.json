@@ -6,7 +6,7 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "iotjs example",
-    "lint": "eslint ."
+    "lint": "eslint --fix . || eslint ."
   },
   "repository": {
     "type": "git",
