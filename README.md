@@ -5,9 +5,9 @@ Lightweight reimplentation of wiring-node for IoT.js,
 WARNING: it's not isofunctionnal, many features are dropped, but API should align
 to help porting Node.js modules to IoT.js
 
-* URL: https://github.com/rzr/wiringpi-iotjs
+* URL: https://github.com/SamsungInternet/wiringpi-iotjs
 
-[![GitHub forks](https://img.shields.io/github/forks/rzr/wiringpi-iotjs.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/rzr/wiringpi-iotjs/network/)
+[![GitHub forks](https://img.shields.io/github/forks/SamsungInternet/wiringpi-iotjs.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/SamsungInternet/wiringpi-iotjs/network/)
 
 [![License](https://img.shields.io/badge/licence-BSD-3.svg?style=flat)](LICENSE)
 
@@ -22,7 +22,7 @@ to help porting Node.js modules to IoT.js
 Running from sources tree is straightforward, but each step will be detailed.
 
 ```sh
-git clone --depth 1 https://github.com/rzr/wiringpi-iotjs ; cd wiringpi-iotjs
+git clone --depth 1 https://github.com/SamsungInternet/wiringpi-iotjs ; cd wiringpi-iotjs
 iotjs example
 
 GPIO: Setup: pin=5: direction=1
@@ -50,7 +50,7 @@ Node is not yet supported but for debugging purpose, gpio calls can be stubbed.
 
 ## RESOURCES: ##
 
-* https://github.com/rzr/wiringpi-iotjs
+* https://github.com/SamsungInternet/wiringpi-iotjs
 * https://www.npmjs.com/package/wiringpi
 * https://github.com/Soarez/node-wiring-pi
 * https://www.npmjs.com/package/wiringpi-node
@@ -58,3 +58,4 @@ Node is not yet supported but for debugging purpose, gpio calls can be stubbed.
 * http://iotjs.net
 * https://github.com/~rzr
 * https://github.com/Irrelon/node-blinkt
+* https://github.com/Irrelon/node-blinkt/pull/15
