@@ -10,7 +10,7 @@ Lightweight reimplentation of wiring-node for IoT.js,
 WARNING: it's not isofunctionnal, many features are dropped, but API should align
 to help porting Node.js modules to IoT.js
 
-* URL: https://github.com/SamsungInternet/wiringpi-iotjs
+* URL: <https://github.com/SamsungInternet/wiringpi-iotjs>
 
 [![NPM](https://nodei.co/npm/wiringpi-iotjs.png)](https://npmjs.org/package/wiringpi-iotjs)
 
@@ -25,10 +25,9 @@ Running from sources tree is straightforward, but each step will be detailed.
 ```sh
 git clone --depth 1 https://github.com/SamsungInternet/wiringpi-iotjs ; cd wiringpi-iotjs
 iotjs example
-
-GPIO: Setup: pin=5: direction=1
-GPIO: write: high: pin=5
-GPIO: write: low: pin=5
+#| GPIO: Setup: pin=5: direction=1
+#| GPIO: write: high: pin=5
+#| GPIO: write: low: pin=5
 ```
 
 
@@ -51,13 +50,13 @@ Node is not yet supported but for debugging purpose, gpio calls can be stubbed.
 
 ## RESOURCES: ##
 
-* https://github.com/SamsungInternet/wiringpi-iotjs
-* https://www.npmjs.com/package/wiringpi
-* https://libraries.io/npm/wiringpi-iotjs
-* https://github.com/Soarez/node-wiring-pi
-* https://www.npmjs.com/package/wiringpi-node
-* https://github.com/fengjiannan2010/wiringpi-node
-* http://iotjs.net
-* https://github.com/~rzr
-* https://github.com/Irrelon/node-blinkt
-* https://github.com/Irrelon/node-blinkt/pull/15
+* <https://github.com/SamsungInternet/wiringpi-iotjs>
+* <https://www.npmjs.com/package/wiringpi>
+* <https://libraries.io/npm/wiringpi-iotjs>
+* <https://github.com/Soarez/node-wiring-pi>
+* <https://www.npmjs.com/package/wiringpi-node>
+* <https://github.com/fengjiannan2010/wiringpi-node>
+* <http://iotjs.net>
+* <https://github.com/~rzr>
+* <https://github.com/Irrelon/node-blinkt>
+* <https://github.com/Irrelon/node-blinkt/pull/15>
