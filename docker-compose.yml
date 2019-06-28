@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+# SPDX-License-Identifier: BSD
+# Copyright 2019-present Samsung Electronics Co., Ltd. and other contributors
+
+version: "2"
+
+services:
+  default:
+    build: .
+    command: start
+    volumes:
+      - /usr/local/opt/wiringpi-iotjs/src/wiringpi-iotjs
