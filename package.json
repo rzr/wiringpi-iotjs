@@ -33,6 +33,6 @@
     "version": ">=1.0"
   },
   "devDependencies": {
-    "eslint": "^6.0.1"
+    "eslint": "^6.2.2"
   }
 }
