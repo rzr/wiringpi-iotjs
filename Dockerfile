@@ -4,7 +4,7 @@
 # Copyright 2019-present Samsung Electronics Co., Ltd. and other contributors
 
 FROM ubuntu:18.04
-MAINTAINER Philippe Coval (p.coval@samsung.com)
+MAINTAINER Philippe Coval (rzr@users.sf.net)
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV LC_ALL en_US.UTF-8

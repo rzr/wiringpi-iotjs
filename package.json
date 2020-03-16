@@ -23,7 +23,7 @@
     "iotjs-module",
     "raspberrypi"
   ],
-  "author": "Philippe Coval <p.coval@samsung.com> (https://www.npmjs.com/~rzr)",
+  "author": "Philippe Coval <rzr@users.sf.net> (https://www.npmjs.com/~rzr)",
   "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://github.com/rzr/wiringpi-iotjs/issues"
