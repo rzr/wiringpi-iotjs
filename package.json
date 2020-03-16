@@ -1,6 +1,6 @@
 {
   "name": "wiringpi-iotjs",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Abstract Wiring API for IoT.js (reimplemented in js)",
   "readme": "README.md",
   "main": "lib/index.js",
