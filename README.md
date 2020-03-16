@@ -14,11 +14,9 @@ to help porting Node.js modules to IoT.js
 
 [![NPM](https://nodei.co/npm/wiringpi-iotjs.png)](https://npmjs.org/package/wiringpi-iotjs)
 
+## USAGE ##
 
-## USAGE: ##
-
-
-### USING IOTJS: ###
+### USING IOTJS ###
 
 Running from sources tree is straightforward, but each step will be detailed.
 
@@ -30,25 +28,25 @@ iotjs example
 #| GPIO: write: low: pin=5
 ```
 
-
-### DEMO: ###
+### DEMO ###
 
 ```sh
 iotjs example
-
 ```
 
 Or using more advanced device:
 
-[![wiringpi-iotjs](https://pbs.twimg.com/ext_tw_video_thumb/1019945702791766017/pu/img/bbbNf-HJR2FkUb5l.jpg)](https://twitter.com/TizenHelper/status/1019945989388546048# "blinkt-node")
+[![wiringpi-iotjs](
+https://pbs.twimg.com/ext_tw_video_thumb/1019945702791766017/pu/img/bbbNf-HJR2FkUb5l.jpg
+)](
+https://twitter.com/TizenHelper/status/1019945989388546048#
+"blinkt-node")
 
-
-### USING NODEJS: ###
+### USING NODEJS ###
 
 Node is not yet supported but for debugging purpose, gpio calls can be stubbed.
 
-
-## RESOURCES: ##
+## RESOURCES ##
 
 * <https://github.com/rzr/wiringpi-iotjs>
 * <https://www.npmjs.com/package/wiringpi>
