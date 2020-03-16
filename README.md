@@ -46,6 +46,11 @@ https://twitter.com/TizenHelper/status/1019945989388546048#
 
 Node is not yet supported but for debugging purpose, gpio calls can be stubbed.
 
+## EXTRA ##
+
+An extra I2C API has been added to ensure compatibility between IoT.js and Node.js.
+
+
 ## RESOURCES ##
 
 * <https://github.com/rzr/wiringpi-iotjs>
