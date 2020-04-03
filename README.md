@@ -1,9 +1,23 @@
 # WIRINGPI-IOTJS #
 
-[![GitHub forks](https://img.shields.io/github/forks/rzr/wiringpi-iotjs.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/rzr/wiringpi-iotjs/network/)
-[![License](https://img.shields.io/badge/licence-BSD-3.svg?style=flat)](LICENSE)
-[![NPM](https://img.shields.io/npm/v/wiringpi-iotjs.svg)](https://www.npmjs.com/package/wiringpi-iotjs)
-[![IRC Channel](https://img.shields.io/badge/chat-on%20freenode-brightgreen.svg)](https://kiwiirc.com/client/irc.freenode.net/#tizen)
+[![GitHub forks](
+https://img.shields.io/github/forks/rzr/wiringpi-iotjs.svg?style=social&label=Fork&maxAge=2592000
+)](
+https://GitHub.com/rzr/wiringpi-iotjs/network/
+)
+[![License](
+https://img.shields.io/badge/licence-BSD-3.svg?style=flat
+)](LICENSE)
+[![NPM](
+https://img.shields.io/npm/v/wiringpi-iotjs.svg
+)](
+https://www.npmjs.com/package/wiringpi-iotjs
+)
+[![IRC Channel](
+https://img.shields.io/badge/chat-on%20freenode-brightgreen.svg
+)](
+https://kiwiirc.com/client/irc.freenode.net/#tizen
+)
 
 Lightweight reimplentation of wiring-node for IoT.js,
 
@@ -12,7 +26,11 @@ to help porting Node.js modules to IoT.js
 
 * URL: <https://github.com/rzr/wiringpi-iotjs>
 
-[![NPM](https://nodei.co/npm/wiringpi-iotjs.png)](https://npmjs.org/package/wiringpi-iotjs)
+[![NPM](
+https://nodei.co/npm/wiringpi-iotjs.png
+)](
+https://npmjs.org/package/wiringpi-iotjs
+)
 
 ## USAGE ##
 
@@ -49,7 +67,6 @@ Node is not yet supported but for debugging purpose, gpio calls can be stubbed.
 ## EXTRA ##
 
 An extra I2C API has been added to ensure compatibility between IoT.js and Node.js.
-
 
 ## RESOURCES ##
 
